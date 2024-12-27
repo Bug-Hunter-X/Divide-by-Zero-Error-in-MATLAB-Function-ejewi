@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MATLAB: a potential divide-by-zero error in a simple function. The `bug.m` file contains the faulty code that lacks input validation. The solution, `bugSolution.m`, demonstrates how to address this issue by adding checks for invalid inputs and providing appropriate error handling.
